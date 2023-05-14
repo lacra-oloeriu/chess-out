@@ -5,7 +5,7 @@
     width: 85%;
     height: 2rem;
     background-color: #dd5b34;
-    color: white;
+    color: #424441;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -15,7 +15,7 @@
   }
   
   .main-image {
-    width: 100%;
+    width: 110%;
     height: 55rem;
     z-index: 0;
     overflow: hidden;
