@@ -1,6 +1,6 @@
 import { Fragment } from "react";
-import  chessImage from '../assets/chess-out.jpg';
-import classes from './Header.module.css';
+import chessImage from "../assets/chess-out.jpg";
+import classes from "./Header.module.css";
 
 const Header = (props) => {
   return (
@@ -10,8 +10,8 @@ const Header = (props) => {
         <button>About</button>
       </header>
       <h1>Lets play chess out!</h1>
-      <div className={classes['main-image']}>
-        <img  src ={chessImage} alt='Chess out'/>
+      <div className={classes["main-image"]}>
+        <img src={chessImage} alt="Chess out" />
       </div>
     </Fragment>
   );
