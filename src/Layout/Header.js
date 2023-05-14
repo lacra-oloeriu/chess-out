@@ -1,5 +1,5 @@
 import { Fragment } from "react";
-import chessImage from "../assets/chess-out.jpg";
+import chessImage from "../assets/chess-out.JPG";
 import classes from "./Header.module.css";
 
 const Header = (props) => {
